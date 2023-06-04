@@ -8,5 +8,5 @@ spec:
     app: serving-web-content-complete
   ports:
     - protocol: "TCP"
-      port: 8083 # The port that the service is running on in the cluster
-      targetPort: 8083 # The port exposed by the service
+      port: 8084 # The port that the service is running on in the cluster
+      targetPort: 8084 # The port exposed by the service
