@@ -4,7 +4,6 @@ metadata: # Metadata of the resource kind we are creating
   name: spring-boot-devopslab
 spec:
   type: NodePort
-  externalIPs: 192.168.49.2
   selector:
     app: serving-web-content-complete
   ports:
