@@ -15,11 +15,8 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
-	</properties>
-	<properties>
-		<!-- Other properties -->
 		<sonar.organization>devopslab-test</sonar.organization>
-	  </properties>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
