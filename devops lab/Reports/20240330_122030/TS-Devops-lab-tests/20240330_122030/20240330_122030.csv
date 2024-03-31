@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-Devops-lab-tests,,,,30-03-2024 12:20:42,30-03-2024 12:20:54,12.245s,FAILED
+,,,,,,,
+Test Cases/First test case,,,,30-03-2024 12:20:51,30-03-2024 12:20:54,2.561s,FAILED
+"openBrowser("""")",,,,30-03-2024 12:20:51,30-03-2024 12:20:54,2.470s,FAILED

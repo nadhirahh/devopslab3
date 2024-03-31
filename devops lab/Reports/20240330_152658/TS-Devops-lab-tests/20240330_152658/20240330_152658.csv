@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-Devops-lab-tests,Chrome 123.0.0.0,,,30-03-2024 15:27:10,30-03-2024 15:27:17,6.135s,PASSED
+,,,,,,,
+Test Cases/First test case,Chrome 123.0.0.0,,,30-03-2024 15:27:11,30-03-2024 15:27:17,5.405s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,30-03-2024 15:27:12,30-03-2024 15:27:16,4.124s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,30-03-2024 15:27:16,30-03-2024 15:27:17,0.540s,PASSED

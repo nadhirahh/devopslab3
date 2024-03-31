@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS-Devops-lab-tests" time="42.84" tests="1" failures="0" errors="0">
+   <testsuite name="TS-Devops-lab-tests" tests="1" failures="0" errors="0" time="42.84" skipped="0" timestamp="30-03-2024T15:27:33" hostname="Nodroh - DESKTOP-3LCBT4O" id="Test Suites/TS-Devops-lab-tests">
+      <properties>
+         <property name="deviceName"/>
+         <property name="devicePlatform" value="WINDOWS"/>
+         <property name="logFolder" value="C:\\Users\\Nodroh\\Desktop\\Devopslab\\devopslab3\\devops lab\\Reports\\20240330_152723\\TS-Devops-lab-tests\\20240330_152723"/>
+         <property name="logFiles" value="C:\\Users\\Nodroh\\Desktop\\Devopslab\\devopslab3\\devops lab\\Reports\\20240330_152723\\TS-Devops-lab-tests\\20240330_152723\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Nodroh - DESKTOP-3LCBT4O"/>
+         <property name="remoteDriverUrl" value="testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{&#xa;  &quot;timeouts&quot;: {&#xa;    &quot;implicit&quot;: 0,&#xa;    &quot;pageLoad&quot;: 300000,&#xa;    &quot;script&quot;: 30000&#xa;  },&#xa;  &quot;platform&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;goog:chromeOptions&quot;: {&#xa;    &quot;debuggerAddress&quot;: &quot;localhost:9225&quot;&#xa;  },&#xa;  &quot;requestId&quot;: &quot;47d70d2d-8569-42df-b829-607f1e65921a&quot;,&#xa;  &quot;webauthn:extension:credBlob&quot;: true,&#xa;  &quot;acceptInsecureCerts&quot;: false,&#xa;  &quot;browserVersion&quot;: &quot;121.0.0.0&quot;,&#xa;  &quot;fedcm:accounts&quot;: true,&#xa;  &quot;browserName&quot;: &quot;chrome&quot;,&#xa;  &quot;javascriptEnabled&quot;: true,&#xa;  &quot;katalon:option&quot;: {&#xa;    &quot;unlimitedExecutionMinutes&quot;: true,&#xa;    &quot;userId&quot;: 1474452,&#xa;    &quot;organizationId&quot;: &quot;1439530&quot;,&#xa;    &quot;class&quot;: &quot;com.katalon.testcloud.grid.common.tunnel.domain.UserOptionCapability&quot;,&#xa;    &quot;runFromTestCloud&quot;: true,&#xa;    &quot;usingTunnel&quot;: false&#xa;  },&#xa;  &quot;platformName&quot;: &quot;WINDOWS&quot;,&#xa;  &quot;setWindowRect&quot;: true,&#xa;  &quot;webauthn:extension:largeBlob&quot;: true,&#xa;  &quot;networkConnectionEnabled&quot;: false,&#xa;  &quot;chrome&quot;: {&#xa;    &quot;chromedriverVersion&quot;: &quot;121.0.6167.8 (4aa41a0c90a47035445354a3512460995acfedc1-refs/branch-heads/6167@{#52})&quot;,&#xa;    &quot;userDataDir&quot;: &quot;C:\\Windows\\SystemTemp\\scoped_dir3312_310813175&quot;&#xa;  },&#xa;  &quot;os&quot;: &quot;windows&quot;,&#xa;  &quot;pageLoadStrategy&quot;: &quot;normal&quot;,&#xa;  &quot;unhandledPromptBehavior&quot;: &quot;dismiss and notify&quot;,&#xa;  &quot;strictFileInteractability&quot;: false,&#xa;  &quot;***:loadExtension&quot;: [&#xa;    &quot;https://prod-magicleap-user-files-us-east-1-v1.s3.amazonaws.com/extensions/orgId-691279/SmartWait.zip&quot;&#xa;  ],&#xa;  &quot;version&quot;: &quot;121&quot;,&#xa;  &quot;se:cdp&quot;: &quot;ws://172.48.44.175:4444/session/d670eef50c60a541b1bd8866e8a849c8/se/cdp&quot;,&#xa;  &quot;proxy&quot;: {&#xa;    &quot;proxyType&quot;: &quot;UNSPECIFIED&quot;,&#xa;    &quot;autodetect&quot;: false&#xa;  },&#xa;  &quot;webauthn:extension:minPinLength&quot;: true,&#xa;  &quot;webauthn:extension:prf&quot;: true,&#xa;  &quot;webauthn:virtualAuthenticators&quot;: true&#xa;}"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="remoteOS" value="Windows"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.100.12"/>
+         <property name="sessionId" value="d670eef50c60a541b1bd8866e8a849c8"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/First test case" time="41.932" classname="Test Cases/First test case" status="PASSED">
+         <system-out><![CDATA[30-03-2024T15:27:34 - [TEST_CASE][PASSED] - Test Cases/First test case: Test Cases/First test case
+
+30-03-2024T15:27:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-03-2024T15:27:36 - [MESSAGE][INFO] - User set preference: ['os', 'windows']
+
+30-03-2024T15:27:36 - [MESSAGE][INFO] - User set preference: ['browserName', 'chrome']
+
+30-03-2024T15:27:36 - [MESSAGE][INFO] - User set preference: ['browserVersion', '121']
+
+30-03-2024T15:27:36 - [MESSAGE][INFO] - User set preference: ['katalon:option', '{organizationId=1439530, tunnelId=, usingTunnel=false}']
+
+30-03-2024T15:27:36 - [MESSAGE][INFO] - Connecting to remote web server 'testcloud.katalon.com/hub' with type 'Selenium'
+
+30-03-2024T15:27:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-03-2024T15:28:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-03-2024T15:28:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+30-03-2024T15:28:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[30-03-2024T15:27:33 - [TEST_SUITE][PASSED] - TS-Devops-lab-tests: Test Cases/First test case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

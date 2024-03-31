@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-Devops-lab-tests,Windows - Chrome 121.0.0.0,,,30-03-2024 15:27:33,30-03-2024 15:28:16,42.840s,PASSED
+,,,,,,,
+Test Cases/First test case,Windows - Chrome 121.0.0.0,,,30-03-2024 15:27:34,30-03-2024 15:28:16,41.932s,PASSED
+"openBrowser("""")",Windows - Chrome 121.0.0.0,,,30-03-2024 15:27:35,30-03-2024 15:28:14,39.387s,PASSED
+closeBrowser(),Windows - Chrome 121.0.0.0,,,30-03-2024 15:28:14,30-03-2024 15:28:16,1.440s,PASSED
