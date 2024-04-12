@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS-Devops-lab-tests" time="9.014" tests="1" failures="0" errors="0">
+   <testsuite name="TS-Devops-lab-tests" tests="1" failures="0" errors="0" time="9.014" skipped="0" timestamp="13-04-2024T01:21:36" hostname="Nodroh - DESKTOP-3LCBT4O.realtek" id="Test Suites/TS-Devops-lab-tests">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Nodroh\\Desktop\\Devopslab\\devopslab3\\devops lab\\Reports\\20240413_012053\\TS-Devops-lab-tests\\20240413_012053"/>
+         <property name="logFiles" value="C:\\Users\\Nodroh\\Desktop\\Devopslab\\devopslab3\\devops lab\\Reports\\20240413_012053\\TS-Devops-lab-tests\\20240413_012053\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Nodroh - DESKTOP-3LCBT4O.realtek"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.11"/>
+         <property name="sessionId" value="e26109c0ef32ecd42cce9edff2350f14"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/First test case" time="8.485" classname="Test Cases/First test case" status="PASSED">
+         <system-out><![CDATA[13-04-2024T01:21:37 - [TEST_CASE][PASSED] - Test Cases/First test case: Test Cases/First test case
+
+13-04-2024T01:21:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-04-2024T01:21:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-04-2024T01:21:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-04-2024T01:21:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-04-2024T01:21:43 - [TEST_STEP][PASSED] - navigateToUrl("http://localhost:8080/index.html"): Navigate to 'http://localhost:8080/index.html' successfully
+
+13-04-2024T01:21:44 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8080/index.html' successfully
+
+13-04-2024T01:21:44 - [TEST_STEP][PASSED] - refresh(STOP_ON_FAILURE): Refresh successfully
+
+13-04-2024T01:21:45 - [MESSAGE][PASSED] - Refresh successfully
+
+13-04-2024T01:21:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-04-2024T01:21:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[13-04-2024T01:21:36 - [TEST_SUITE][PASSED] - TS-Devops-lab-tests: Test Cases/First test case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

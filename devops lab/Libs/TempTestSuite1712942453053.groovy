@@ -28,8 +28,8 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("C:\\Users\\Nodroh\\Desktop\\Devopslab\\devopslab3\\devops lab\\Reports\\20240330_152723\\TS-Devops-lab-tests\\20240330_152723\\execution.properties")
+RunConfiguration.setExecutionSettingFile("C:\\Users\\Nodroh\\Desktop\\Devopslab\\devopslab3\\devops lab\\Reports\\20240413_012053\\TS-Devops-lab-tests\\20240413_012053\\execution.properties")
 
 TestCaseMain.beforeStart()
 
-TestCaseMain.startTestSuite('Test Suites/TS-Devops-lab-tests', suiteProperties, new File("C:\\Users\\Nodroh\\Desktop\\Devopslab\\devopslab3\\devops lab\\Reports\\20240330_152723\\TS-Devops-lab-tests\\20240330_152723\\testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/TS-Devops-lab-tests', suiteProperties, new File("C:\\Users\\Nodroh\\Desktop\\Devopslab\\devopslab3\\devops lab\\Reports\\20240413_012053\\TS-Devops-lab-tests\\20240413_012053\\testCaseBinding"))

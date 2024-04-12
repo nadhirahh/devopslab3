@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-Devops-lab-tests,Chrome 123.0.0.0,,,05-04-2024 07:02:24,05-04-2024 07:02:31,6.632s,PASSED
+,,,,,,,
+Test Cases/First test case,Chrome 123.0.0.0,,,05-04-2024 07:02:25,05-04-2024 07:02:31,6.210s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,05-04-2024 07:02:25,05-04-2024 07:02:30,4.425s,PASSED
+"navigateToUrl(""http://localhost:8080/index.html"")",Chrome 123.0.0.0,,,05-04-2024 07:02:30,05-04-2024 07:02:30,0.643s,PASSED
+refresh(STOP_ON_FAILURE),Chrome 123.0.0.0,,,05-04-2024 07:02:30,05-04-2024 07:02:30,0.120s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,05-04-2024 07:02:30,05-04-2024 07:02:31,0.338s,PASSED
